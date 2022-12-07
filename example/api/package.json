@@ -30,9 +30,9 @@
         "@iota/client-load-balancer": "github:iotaledger/client-load-balancer",
         "@iota/core": "^1.0.0-beta.21",
         "@iota/mam": "^0.7.3",
-        "body-parser": "^1.19.0",
+        "body-parser": "^1.20.1",
         "cors": "^2.8.5",
-        "express": "^4.17.1"
+        "express": "^4.18.2"
     },
     "devDependencies": {
         "@types/cors": "^2.8.5",
